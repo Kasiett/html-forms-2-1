@@ -1,0 +1,23 @@
+main {
+  border: 2px dashed darkred;
+}
+p {
+  margin-bottom: 10px;
+  margin: 0;
+}
+header {
+  background-color: #D61F57;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+form {
+  text-align: center;
+  background-color: #EFF5FB;
+}
+form input  {
+  margin: 20px;
+  text-align: center;
+}
